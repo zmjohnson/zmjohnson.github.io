@@ -1,11 +1,11 @@
 # Site settings
 author: Zachary Johnson
-title: 
+title: Software Engineer (in progress)
 header-img: img/home-bg.png
 email: zacharymjohnson2@gmail.com
 copyright_name: Zachary Johnson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey with The Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  zmjohnson
